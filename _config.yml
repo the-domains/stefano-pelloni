@@ -22,7 +22,7 @@ color:
     - '#090909'
     - '#828282'
     - '#bababa'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.0625
   saturation: 0.5625
   rhythmicContrast: 0.6424203305505216

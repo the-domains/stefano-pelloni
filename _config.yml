@@ -1,0 +1,28 @@
+name: Stefano Pelloni
+favicon: null
+layout_spectrum: 0.11423998465761542
+typography_spectrum: 0.44590694457292557
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8224641215056181
+  lightness: 0.00880356109701097
+  saturation: 0.8318666273262352
+  rhythmicContrast: 0.6424203305505216
+purpose: []

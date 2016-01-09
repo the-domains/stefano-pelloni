@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Stefano Pelloni]]></title>
-        <description><![CDATA[Stefano Pelloni]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Portfolio Personale · Curriculum Online]]></title>
+        <description><![CDATA[Portfolio Personale · Curriculum Online]]></description>
+        <link>https://thegrid.ai/stefano-pelloni/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 14:09:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 02:32:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stefano-pelloni/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>undefined</p>]]></description>
+            <link>https://thegrid.ai/stefano-pelloni/4f9380c5-2007-4ef5-897f-99c318afd0fd/index.html</link>
+            <guid isPermaLink="false">4f9380c5-2007-4ef5-897f-99c318afd0fd</guid>
+            <pubDate>Sat, 09 Jan 2016 02:32:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd54416b-2861-4bde-99dc-c20340472d27.jpg">]]></description>
-            <link>undefined7b940393-36dd-4a03-8162-05d94e4c0eda/index.html</link>
+            <link>https://thegrid.ai/stefano-pelloni/7b940393-36dd-4a03-8162-05d94e4c0eda/index.html</link>
             <guid isPermaLink="false">7b940393-36dd-4a03-8162-05d94e4c0eda</guid>
             <pubDate>Thu, 07 Jan 2016 14:09:28 GMT</pubDate>
         </item>
